@@ -210,12 +210,16 @@ section {
 .Home .slides-container .slide .content span {
   color: #fff;
   font-size: 2.5rem;
+  animation: fadeLeft 0.4s linear 0.4s backwards;
+
 }
 
 .Home .slides-container .slide .content h3 {
   font-size: 6rem;
   color: #fff;
   padding: 0.5rem 0;
+  animation: fadeLeft 0.4s linear 0.4s backwards;
+
 }
 
 .Home .slides-container .slide .img {
